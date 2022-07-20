@@ -1,8 +1,10 @@
 # Sistema de cadastro de jogos
 
+> Status do projeto: iniciando.
+
 Instale o programa abaixo.
 
 ```
-sudo apt-get install vim
+node app.js
 ```
 
